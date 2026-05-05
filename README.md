@@ -1,9 +1,6 @@
 # 🚀 API de Productos - ASP.NET Core + JWT
 
-API REST desarrollada con **ASP.NET Core Web API** aplicando arquitectura en capas, autenticación con **JWT**, persistencia con **Entity Framework Core** y base de datos **SQL Server**.
-
-Este proyecto simula un backend real con gestión de productos y usuarios autenticados.
-
+API REST desarrollada con ASP.NET Core aplicando arquitectura en capas, autenticación JWT y Entity Framework Core. Permite gestión de productos con endpoints seguros y buenas prácticas de backend.
 -----------------------------------------------------------------------------------------------
 
  🧠 Tecnologías
